@@ -1,0 +1,13 @@
+Trabajar vistas con react algo
+
+react-router-dom
+
+Para trabajar vistas.
+
+npm install react-router-dom
+
+Ir a src
+
+crear una carpeta llamada view
+
+Ahí crear un Index.js

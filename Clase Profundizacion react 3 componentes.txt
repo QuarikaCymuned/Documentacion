@@ -1,0 +1,26 @@
+Pasar lo de react
+
+¬Se crean 3 carpetas en src: component, css, img .
+
+-En component se crean los respectivos componentes. 
+Ej:
+Nav.js
+(Recordar que los componentes siempre inician con mayuscula y son de formato js).
+
+import React, { component } from 'react'
+
+[Para más informacion revisar el ejemplo llamado index]
+
+-En css se pone el css
+Ej:
+main.css
+
+-En img se ponen las imagenes que se necesita para la pagina
+Ej: 
+person.png
+
+¬Luego se importan en App.js
+import React from 'react';
+
+Ej: import Nav from './component/Nav'
+

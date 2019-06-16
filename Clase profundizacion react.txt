@@ -1,0 +1,62 @@
+Clase Profundizacion:
+
+Descargar Node js
+
+Instalar Node js
+
+Abir cmd
+
+Digitar comando:
+
+npm install -g create-react-app
+
+npx create-react-app (Nombre de la app)
+
+Comando pa iniciar:
+npm start
+
+Aparece pagina web localhost:3000
+
+Archivo: Coreui-free-react...etc...
+
+src/App.js= Aqui generalmente se hacen las cosas 
+
+Recordatorio= En react se toma archivos jsx entonces no utiliza Class sino className
+
+Abrimos la plantilla esa rara que dio el profesor en visual code
+
+En la consola:
+
+npm i=Actualiza el Package json==Importante hacer siempre que se haga algo 
+
+luego:
+
+npm start
+
+------------------------------------------------ 
+
+react-dom=moviles
+
+package.json= comienza a generar componentes necesarios para el programa
+
+package-lock.json=No c toca xd
+
+.gitignore=Cosas pa ignorar del github xd
+
+3 Carpetas: node_modules,public,src
+
+node_modules=Entorno en javascript==No c toca
+
+public=>Favicon.ico , index.html , src
+
+Debajo del titulo se pega el zelda de lo del css como stilos o las weas raras del bootstrap
+
+src=Aqui si se pone el codigo
+
+------------------------------------------------
+
+
+
+
+
+React pide archivos jsx

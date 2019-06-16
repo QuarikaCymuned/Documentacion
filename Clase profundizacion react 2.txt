@@ -1,0 +1,56 @@
+Component
+-nav -> export
+-slide
+
+APP.js
+import nav
+
+export default app;
+
+Una vez creado el archivo de react
+
+Arrastrar el css y la carpeta img en el Src
+
+En el archivo app.js vamos a importar el css, como se importa?
+
+import './css/(el archivo)'
+Ej: import './css/estilos.css'
+
+
+Si se usa bootstrap
+
+Copiar:
+cdn css
+tres archivos
+
+public
+index.html
+debajo del title
+se pone el estilo 
+
+y debajo del </body> se deja los tres archivos
+
+En el src se crea una carpeta llamada component
+[Recomendaciones: Intenten hacer los componentes en ingles(in english)]
+
+Esto va en el Nav del component del src(src/component/Nav):
+
+import (Nombre del archivo) from './(direccion de la imagen)
+Ej: import logo from './img/icono 
+
+En el Nav del component del src se hace:
+
+render () {
+    return (
+
+
+[Aqui ponemos el html nav]
+
+
+    )}
+} 
+
+
+En el html nav:
+
+Todo lo que sea class, hay que cambiarlo por className
