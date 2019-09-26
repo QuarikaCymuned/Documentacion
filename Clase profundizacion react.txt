@@ -10,7 +10,7 @@ Digitar comando:
 
 npm install -g create-react-app
 
-npx create-react-app (Nombre de la app)
+npx create-react-app (Nombre de la app) --// no se puede poner mayusculas en el nombre -SexoCry 
 
 Comando pa iniciar:
 npm start
