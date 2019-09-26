@@ -1,0 +1,23 @@
+npm init -y
+
+cd backend	
+npm i express mongoose cors dotenv
+
+npm i nodemon -D
+
+crear carpeta src -> crear 3 archivos -> app.js, database.js. index.js
+en src-> crear 3 carpetas -> controllers, models, routes
+
+en app.js-> 
+
+const express = require('express');
+
+const app = express();
+
+module.exports = app;
+
+en index.js ->
+
+const app = require('./app');
+
+app.listen(4000, () => console.log('Server on Port 4000'));

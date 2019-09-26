@@ -1,0 +1,3 @@
+tabla de publicidad
+eliminar disponibilidad
+tabla cliente tabla login

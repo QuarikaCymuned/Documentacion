@@ -1,0 +1,4 @@
+capeta-> nerv -> arrastar a visual studio
+
+en *nerv* -> crear carpeta backend 
+backend-> npm init -y -> para crear un proyecto en nodejs
